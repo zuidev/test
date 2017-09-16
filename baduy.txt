@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Duy dep trai thanh lich khap zu tru!
 45 Ngo Thi Nham
+=======
+>>>>>>> parent of 509abd8... Sua baduy.txt
